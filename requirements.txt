@@ -1,0 +1,4 @@
+#библиотеки
+pytest==7.4.0
+selene==2.0.0rc4
+webdriver-manager==3.8.6
